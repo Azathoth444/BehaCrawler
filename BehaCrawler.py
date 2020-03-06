@@ -14,7 +14,7 @@ class bahaCrawler:
         self.maxPages = 1
         
         #User Setting:
-        self.main_folder = "油圖"            #資料夾名稱，可自行設置，例：油圖
+        self.main_folder = "巴哈油圖"            #資料夾名稱，可自行設置，例：油圖
         self.bsn = "60076"                   #巴哈版，60076是場外休憩區
         self.post = "snA=4953068&tnum=1106"  #Copy巴哈文章最後字串，例如:snA=4953068&tnum=1106 或 snA=5516855&tnum=40 
         self.current_page = 1                #本程式默認從文章第1頁開始下載，若要由第10頁開始下載，可以將此數值設置為10
