@@ -1,4 +1,4 @@
-# BehaCrawler
+# DownloadBahaPostImage
 巴哈文章串: https://forum.gamer.com.tw/C.php?bsn=60076&snA=5588439
 
 用戶輸入指定文章編碼，就可以下載該文章內的圖片(不包括留言跟簽名檔的圖片)
